@@ -1,5 +1,6 @@
 #!/bin/bash
 echo " Jenkins build"
+echo "Hello"
 echo "Task 2 jenkins"
 date
 free -m
